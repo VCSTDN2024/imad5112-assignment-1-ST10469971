@@ -1,24 +1,32 @@
 Meal planner 
 
-Developer: ST10469971 
+Developer: Susan Mhango 
 
 Student Number: ST10469971 
 
 Group: 2 
 
-Course: Higher Certificate in Mobile Application And Web Development 
+Course: Higher Certificate in mobile application and web development 
 
-Subject: INTRODUCTION TO MOBILE APPLICATION DEVELOPMENT
+Subject: INTRODUCTION TO MOBILE APPLICATION DEVELOPMENT 
+
+ 
+
 Links 
 
 GitHub Repository:  https://github.com/VCSTDN2024/imad5112-assignment-1-ST10469971.git 
 
-YouTube video:LINK.... 
-2. Project Overview 
+YouTube video: LINK 
+
+ 
+
+ 2. Project Overview 
 
 The meal planner is a mobile application developed as part of an assignment in the IMAD subject. This application was created using Kotlin and Android Studio. The app’s primary purpose is to assist a close friend who struggles coming up with meal options on busy days. This app is programed to suggest meal options when a time of day is inputted. The app was developed to meet the requirements of the assignment, which includes creating a functional mobile app and utilizing GitHub for version control and CI/CD automation using GitHub Actions.  
 
 The meal planner program is designed to suggest meal options so that one doesn't waste time thinking of meal suggestions.  The user must enter the time of day (e.g. Morning, mid-Morning, Afternoon, Tea-time, Diner, Dessert) in the suggested block. Once the user has entered the time of day, they have to click the suggest meal button. After clicking the suggest button a meal option will be displayed in the display box which is below the “Enter time of day”,(e.g. Morning would display Yoghurt with muesli”, Mid-morning would display Scrambled eggs with toasted bread with avocado, afternoon would display Chicken mayo sandwich”, teatime would display “Doughnuts with chocolate icing”, dinner would display “Spaghetti Bolognese”, after dinner would display “Malva pudding”). If the user wants to remove the time of day input, they can click the reset button, however if the user wants to exit the program they can click the exit. 
+
+ 
 
 3. App purpose and Features 
 
@@ -46,7 +54,9 @@ The main goal of this app is to assist a close friend who struggles coming up wi
 
  These features aim to provide quick and easy meal suggestions for people with busy schedules.  
 
- Why: 
+  
+
+Why: 
 
 - This section breaks down the specific features and the purpose of the app, giving clarity on the app’s functionality. 
 
@@ -65,3 +75,50 @@ Responsiveness: The app was built to ensure it performs well on different screen
 Simplicity: The design is minimalistic, focusing on core features without overwhelming the user. 
 
 Performance: Code optimization was considered to ensure fast response times and low battery usage. 
+
+ 
+
+ 
+
+ 
+Why: 
+
+Highlights the thought process behind the design choices. It demonstrates that students are considering not just the functionality, but also the usability and performance aspects of the app, which is a professional approach. 
+
+ 
+
+ 
+
+GitHub and GitHub Actions Utilization 
+
+ 
+
+GitHub and GitHub Actions 
+
+This project was managed using GitHub for version control, where all code changes were committed and pushed regularly. GitHub enabled collaborative coding, allowing me to keep track of changes and maintain project integrity. 
+
+GitHub Actions:  
+
+I utilized I utilized CI/CD action to automate the build and deployment process. This includes:  
+
+Running automated tests to ensure the app’s functionality. 
+
+Compiling the app into APK and AAB files, which are the formats required for distribution. 
+
+Uploading these build artifacts to GitHub for easy access. The workflow ensures that my project is automatically built and tested every time I push changes, and it simplifies the process of delivering the final APK/AAB files for submission. 
+
+ 
+
+ 
+
+   
+6. Screenshots and app demo 
+
+![image](https://github.com/user-attachments/assets/005afeea-382e-4593-a484-b98f23195152)
+
+
+ 
+
+ 
+
+Video Demo 

@@ -16,7 +16,7 @@ Links
 
 GitHub Repository:  https://github.com/VCSTDN2024/imad5112-assignment-1-ST10469971.git 
 
-YouTube video: LINK 
+YouTube video: https://youtu.be/FE4gIZjqrfU 
 
  
 
@@ -24,7 +24,7 @@ YouTube video: LINK
 
 The meal planner is a mobile application developed as part of an assignment in the IMAD subject. This application was created using Kotlin and Android Studio. The app’s primary purpose is to assist a close friend who struggles coming up with meal options on busy days. This app is programed to suggest meal options when a time of day is inputted. The app was developed to meet the requirements of the assignment, which includes creating a functional mobile app and utilizing GitHub for version control and CI/CD automation using GitHub Actions.  
 
-The meal planner program is designed to suggest meal options so that one doesn't waste time thinking of meal suggestions.  The user must enter the time of day (e.g. Morning, mid-Morning, Afternoon, Tea-time, Diner, Dessert) in the suggested block. Once the user has entered the time of day, they have to click the suggest meal button. After clicking the suggest button a meal option will be displayed in the display box which is below the “Enter time of day”,(e.g. Morning would display Yoghurt with muesli”, Mid-morning would display Scrambled eggs with toasted bread with avocado, afternoon would display Chicken mayo sandwich”, teatime would display “Doughnuts with chocolate icing”, dinner would display “Spaghetti Bolognese”, after dinner would display “Malva pudding”). If the user wants to remove the time of day input, they can click the reset button, however if the user wants to exit the program they can click the exit. 
+The meal planner program is designed to suggest meal options so that one doesn't waste time thinking of meal suggestions.  The user must enter the time of day (e.g. Morning, mid-Morning, Afternoon, Tea-time, Diner, After dinner) in the suggested block. Once the user has entered the time of day, they have to click the suggest meal button. After clicking the suggest button a meal option will be displayed in the display box which is below the “Enter time of day”,(e.g. Morning would display Yoghurt with muesli”, Mid-morning would display Scrambled eggs with toasted bread with avocado, afternoon would display Chicken mayo sandwich”, teatime would display “Doughnuts with chocolate icing”, dinner would display “Spaghetti Bolognese”, after dinner would display “Malva pudding”). If the user wants to remove the time of day input, they can click the reset button, however if the user wants to exit the program they can click the exit button. 
 
  
 
@@ -175,4 +175,13 @@ The Independent Institute of Education, 2025. Introduction to mobile application
  
 
 (No date a) YouTube. Available at: https://youtu.be/XIHNxES2hbQ?si=nyNH_yJGg6VXeaLu (Accessed: 31 March 2025). 
+
+10. List of figures
+11. Figure 1
+12. ![image](https://github.com/user-attachments/assets/2e5a5c41-d1b1-4189-b3dd-8aa0e0e92bf5)
+
+13. figure 2
+14. ![image](https://github.com/user-attachments/assets/33921bda-fbbb-406a-a99a-bfd61dc04dc2)
+
+
 

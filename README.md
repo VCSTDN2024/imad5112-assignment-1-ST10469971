@@ -124,3 +124,55 @@ Uploading these build artifacts to GitHub for easy access. The workflow ensures 
 Video Demo 
 LINK!!!
 
+Challenges and Learnings  
+
+During the development of this project, I encountered several challenges, including: 
+
+ 
+
+Challenge 1: “Connecting a device to Android Studio” 
+
+Solution:” I connected the BlueStacks app to my android device and made sure it was connected on the run for BlueStacks application” 
+
+ 
+
+Challenge 2: “Pushing my work from Android Studio to GitHub” 
+
+Solution: “I used the Command Prompt and executed the commands that managed to push my work to GitHub” 
+
+ 
+
+From these challenges, I learned important lessons in debugging, using version control, and automating build processes with GitHub Actions 
+
+ 
+
+ 
+
+8.  Future Enhancements  
+
+ While the current version of the app provides the core functionality, there are several features that could be added in the future, including: 
+
+Feature 1: "Current date and time shown at the top” 
+
+Feature 2: “Adding a few most spoken language choices to connect with a wider audience 
+
+Feature 3: “Images to show the user examples of the meal suggestions 
+
+ 
+
+These enhancements would improve the app’s usability and make it even more versatile for end-users. 
+
+ 
+
+9. References  
+
+https://i.pinimg.com/originals/7b/0e/d4/7b0ed48e82cb5b37bbdb31f3074b6b52.jpg 
+
+ 
+
+The Independent Institute of Education, 2025. Introduction to mobile application development [IMAD5112]. nt. [online via internal VLE] The Independent Institute of Education. Available at: https://advtechonline.sharepoint.com/:w:/r/sites/TertiaryStudents/_layouts/15/Doc.aspx?sourcedoc=%7BA1FF62F0-8E1A-47BC-99BD-CA07AE24427D%7D&file=IMAD5112_MM.docx&action=default&mobileredirect=true [Accessed Date 31 March 2025] 
+
+ 
+
+(No date a) YouTube. Available at: https://youtu.be/XIHNxES2hbQ?si=nyNH_yJGg6VXeaLu (Accessed: 31 March 2025). 
+
